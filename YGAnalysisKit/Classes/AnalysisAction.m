@@ -17,6 +17,7 @@
 - (void)ControlAnalysis:(UIControl *)sender
 {
 
+    
     //这里做存库或上报操作
     NSString *event_code = [NSString stringWithFormat:@"%@/%@/%ld", self.targetName, self.actionName,sender.tag];
     NSLog(@"点击埋点成功--事件ID===%@",event_code);
