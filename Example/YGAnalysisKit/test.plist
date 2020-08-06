@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GESTURE</key>
+	<dict>
+		<key>UITapGestureRecognizer/YGViewController/testTap:</key>
+		<dict/>
+	</dict>
+	<key>TABLEVIEW</key>
+	<dict>
+		<key>TESTViewController/UITableView/0</key>
+		<dict/>
+	</dict>
+	<key>ACTION</key>
+	<dict>
+		<key>YGViewController/testClick:/1</key>
+		<string></string>
+		<key>YGViewController/testClick:/2</key>
+		<string></string>
+	</dict>
+	<key>PAGEVC</key>
+	<dict>
+		<key>TESTViewController</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
