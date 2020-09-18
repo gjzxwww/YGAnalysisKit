@@ -1,0 +1,16 @@
+PODS:
+  - YGAnalysisKit (1.0.1)
+
+DEPENDENCIES:
+  - YGAnalysisKit (from `../`)
+
+EXTERNAL SOURCES:
+  YGAnalysisKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YGAnalysisKit: 0b5190818c1308b913240e96e93a1f93c3712bff
+
+PODFILE CHECKSUM: b396c803f6afbd839df97ddaecfbf338eb3a076c
+
+COCOAPODS: 1.8.4

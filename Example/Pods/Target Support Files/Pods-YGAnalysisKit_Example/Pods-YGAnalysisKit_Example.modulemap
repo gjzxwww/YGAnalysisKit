@@ -1,0 +1,6 @@
+framework module Pods_YGAnalysisKit_Example {
+  umbrella header "Pods-YGAnalysisKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

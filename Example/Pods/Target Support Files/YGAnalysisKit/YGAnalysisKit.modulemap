@@ -1,0 +1,6 @@
+framework module YGAnalysisKit {
+  umbrella header "YGAnalysisKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
